@@ -4,7 +4,6 @@
 #include "ConnectFour.h"
 
 using namespace std;
-
 /*
  *
  */

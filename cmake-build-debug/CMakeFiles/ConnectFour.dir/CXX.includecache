@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pankaj/CLionProjects/connect-four/ConnectFour.cpp
+ConnectFour.h
+/home/pankaj/CLionProjects/connect-four/ConnectFour.h
+iostream
+-
+ctime
+-
+cstdlib
+-
+
+/home/pankaj/CLionProjects/connect-four/ConnectFour.h
+
+/home/pankaj/CLionProjects/connect-four/main.cpp
+cstdlib
+-
+iostream
+-
+ConnectFour.h
+/home/pankaj/CLionProjects/connect-four/ConnectFour.h
+
