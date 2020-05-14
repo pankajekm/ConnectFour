@@ -1,4 +1,6 @@
-
+//Copyright (c) 2020, Pankaj Kumar G
+//All rights reserved.
+// SPDX-License-Identifier: BSD 3-Clause
 #include <cstdlib>
 #include <iostream>
 #include "ConnectFour.h"

@@ -1,3 +1,6 @@
+//Copyright (c) 2020, Pankaj Kumar G
+//All rights reserved.
+// SPDX-License-Identifier: BSD 3-Clause
 #ifndef CONNECTFOUR_H
 #define CONNECTFOUR_H
 #define HUMAN -1
